@@ -19,6 +19,7 @@ public class EjercicioGit {
     public static void main(String[] args) {
         
         JOptionPane.showMessageDialog(null, "Hola Richar");
+        JOptionPane.showMessageDialog(null, "Hola Richar2");
         
     }
     
